@@ -1,3 +1,3 @@
 # JuliaLessons
 Short lessons on Julia for Data Science 
-Read in html here: https://inmaruiz.com/index.php/julia/
+How to retrieve a .csv data file from the web: https://inmaruiz.com/index.php/julia/
